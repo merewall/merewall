@@ -17,7 +17,7 @@ _Languages + Tech:_ | _Check it out:_ | _But wait, there's more..._ |
 --------------------|-----------------|-----------------------------|
 ☑️ Command Line | 🔭 I’m currently working on ... a Team Profile Generator. | ⚡ Fun facts: 
 ☑️ Git | 🤯 I’m currently learning ... Object Oriented Programming. | 😲 My [relative](https://www.nasa.gov/image-feature/mary-ross-a-hidden-figure) was on the [2019 $1 gold coin](https://www.usmint.gov/coins/coin-medal-programs/native-american-dollar-coins/2019-american-indians-in-space).
-☑️ GitFlow | 👀 Peep my [résumé](). | 😲 She was also a [2018 Google Doodle](https://www.google.com/doodles/mary-g-ross-110th-birthday).
+☑️ GitFlow | 👀 Peep my [résumé](https://merewall.github.io/Web-Dev-Resume/). | 😲 She was also a [2018 Google Doodle](https://www.google.com/doodles/mary-g-ross-110th-birthday).
 ☑️ HTML5 |
 ☑️ CSS | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_**Contact:**_ | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_**Social:**_ 
 ☑️ JavaScript | 📧 => [email me](mlwall@alumni.princeton.edu) | <img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" alt="Instagram logo" width="20px" height="20px"> => [@merewall](https://www.instagram.com/merewall/) 
