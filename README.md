@@ -1,4 +1,4 @@
-### Hi there! <img src="https://editablegifs.com/gifs/gifs/raising-hand-emoji/thumbnail.gif" alt="waving smiley" width="40px" height="40px">  
+### hi there! <img src="https://editablegifs.com/gifs/gifs/raising-hand-emoji/thumbnail.gif" alt="waving smiley" width="40px" height="40px">  
   
 I'm currently enrolled at <span style="">Georgia Tech</span>, pursuing a certificate in **Full-Stack Web Development**.
   
