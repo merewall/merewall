@@ -3,15 +3,16 @@
 I'm currently enrolled at <span style="">Georgia Tech</span>, pursuing a certificate in **Full-Stack Web Development**.
   
 ----------------------------------------
-_**me**_ = **{**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**undergrad:** &nbsp;&nbsp;&nbsp;princeton 🐯⚽,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**b_a:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[geology 🗻⛏️, env_sci 🌎🌱],  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**titles:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[manager 👩‍💼💼, field-marketer 👨‍👩‍👧‍👦📈],  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**type:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[science-minded 🔬🤓, creative 🎨📐, problem-solver 🧩🧐],  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**hobbies:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[hip-hop dancing 🎵💃, roller-skating ➰✨, hiking 🥾🏕️],  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**floofs:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[fitz ♥️🐈, tink ♥️🐕]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**}**
-
+````JavaScript
+me = {  
+      undergrad: princeton 🐯⚽,  
+      b_a: [geology 🗻⛏️, env_sci 🌎🌱],  
+      titles: [manager 👩‍💼💼, field-marketer 👨‍👩‍👧‍👦📈],  
+      type: [science-minded 🔬🤓, creative 🎨📐, problem-solver 🧩🧐],  
+      hobbies: [hip-hop dancing 🎵💃, roller-skating ➰✨, hiking 🥾🏕️],  
+      floofs: [fitz ♥️🐈, tink ♥️🐕]  
+}
+````
 --------------------
 _Languages + Tech:_ | _Check it out:_ | _But wait, there's more..._ |
 --------------------|-----------------|-----------------------------|
