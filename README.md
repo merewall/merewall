@@ -16,8 +16,8 @@ me = {
 --------------------
 _Languages + Tech:_ | _Check it out:_ | _But wait, there's more..._ |
 --------------------|-----------------|-----------------------------|
-☑️ Command Line | 🔭 I’m currently working on ... a Tech Blog application. | ⚡ Fun facts: 
-☑️ Git | 🤯 I’m currently learning ... Model-View-Controller. | 😲 My [relative](https://www.nasa.gov/image-feature/mary-ross-a-hidden-figure) was on the [2019 $1 gold coin](https://www.usmint.gov/coins/coin-medal-programs/native-american-dollar-coins/2019-american-indians-in-space).
+☑️ Command Line | 🔭 I’m currently working on ... a Community Toolshed App. | ⚡ Fun facts: 
+☑️ Git | 🤯 I’m currently learning ... Computer Science - JS. | 😲 My [relative](https://www.nasa.gov/image-feature/mary-ross-a-hidden-figure) was on the [2019 $1 gold coin](https://www.usmint.gov/coins/coin-medal-programs/native-american-dollar-coins/2019-american-indians-in-space).
 ☑️ GitFlow | 👀 Peep my [résumé](https://merewall.github.io/Web-Dev-Resume/). | 😲 She was also a [2018 Google Doodle](https://www.google.com/doodles/mary-g-ross-110th-birthday).
 ☑️ HTML5 |
 ☑️ CSS | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_**Contact:**_ | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_**Social:**_ 
@@ -29,3 +29,4 @@ _Languages + Tech:_ | _Check it out:_ | _But wait, there's more..._ |
 ☑️ Sequelize |
 ☑️ MVC |
 ☑️ Handlebars |
+☑️ NodeMailer |
