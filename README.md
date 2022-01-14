@@ -40,4 +40,4 @@ _Languages + Tech:_ | _Check it out:_ | _But wait, there's more..._ |
 ☑️ State |
 
 ---------------------------------------------------------------------
-[![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=merewall)](https://github.com/merewall/github-readme-stats)
+![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=merewall&show_icons=true&theme=cobalt)
